@@ -1,12 +1,39 @@
-# React + Vite
+# 📚 Docs App — Powered by ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **ReactJS-based documentation application** that demonstrates how to build an intuitive, user-friendly Docs App using React’s powerful component architecture.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Highlights
 
-## Expanding the ESLint configuration
+✅ **ReactJS Magic** — Leverage React’s component-based structure for clean, maintainable code.  
+✅ **Task Walkthrough** — This app tackles a specific feature in a Docs App, showing you step by step how it works.   
+✅ **Enhanced UX** — The app focuses on a smooth, responsive, user-friendly documentation experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Installation & Setup
+
+Follow these quick steps to run the project locally:
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Docs-frontend.git
+cd YOUR_REPO_NAME
+
+2️⃣ Install Dependencies
+Make sure you have Node.js installed.
+npm install
+
+3️⃣ Run the Application
+npm run dev
+The app will run at http://localhost:5173
+
+🛠️ Built With
+ReactJS
+
+Tailwind CSS 
+
+Modern JavaScript (ES6+)
+
